@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/77b87a25-d486-4473-9c24-f3a8d0bc29c3)
 
 
-Certainly! Here’s an expanded and comprehensive article in English on the CSV file format suitable for GitHub documentation:
+
 
 ---
 
@@ -118,4 +118,4 @@ CSV files remain a versatile and accessible solution for data storage and transf
 
 --- 
 
-This guide provides a thorough overview of CSV files and should be helpful for anyone looking to work with CSV in data analysis or software development contexts.
+
